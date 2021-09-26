@@ -1,0 +1,29 @@
+.cart {
+  width: 350px;
+  height: 680px;
+  background-color: rgb(221, 214, 214);
+  margin: 10px 0px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.cart img {
+  width: 250px;
+  height: 250px;
+  padding: 10px;
+}
+.cart-details {
+  text-align: left;
+  margin-left: 35px;
+  padding: 10px 0px;
+}
+
+.cartBtn {
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 8px 40px;
+  cursor: pointer;
+  background-color: orange;
+  border-radius: 5px;
+}

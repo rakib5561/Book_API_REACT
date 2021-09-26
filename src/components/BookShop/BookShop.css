@@ -1,0 +1,10 @@
+.bookShop-container {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+
+.books-container {
+  margin-left: 50px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}

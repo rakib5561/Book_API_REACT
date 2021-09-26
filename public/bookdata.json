@@ -1,0 +1,138 @@
+[
+  {
+    "id": "b1",
+    "image": "https://officialresultbd.com/wp-content/uploads/2020/07/received_323657529021556.jpg",
+    "name": "Spoken Englis",
+    "author": "Munjerin Shohid",
+    "published_year": "2020",
+    "last_edition": "2020",
+    "price": 120
+  },
+  {
+    "id": "b2",
+    "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/ef11c6ea1_213376.jpg",
+    "name": "Massage",
+    "author": "Mijanur Rahman Ajhari",
+    "published_year": "2021",
+    "last_edition": "2021",
+    "price": 275
+  },
+  {
+    "id": "b3",
+    "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/rokimg_20151105_105175.gif",
+    "name": "Numerical Methods",
+    "author": "E. Balaguruswamy",
+    "published_year": "1998",
+    "last_edition": "2018",
+    "price": 2750
+  },
+  {
+    "id": "b4",
+    "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/d27f7d05b114_122196.jpg",
+    "name": "Schaum Outline Computer Graphics",
+    "author": "XIANG AND PLASTOCK",
+    "published_year": "2017",
+    "last_edition": "2020",
+    "price": 1278
+  },
+  {
+    "id": "b5",
+    "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Problem_Solving_And_Program_Design_In_C_-Jeri_R_Hanly-e2fe1-103035.jpg",
+    "name": "Problem Solving And Program Design In C",
+    "author": "Jeri R. Hanly , Elliot B. Koffman",
+    "published_year": "2015",
+    "last_edition": "2019",
+    "price": 1260
+  },
+  {
+    "id": "b6",
+    "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/c06ac453c_119363.jpg",
+    "name": "An Introduction to Mechanics",
+    "author": "Daniel Kleppner , Robert Kolenkow",
+    "published_year": "2000",
+    "last_edition": "2009",
+    "price": 1251
+  },
+  {
+    "id": "b7",
+    "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/rokimg_20151114_105416.gif",
+    "name": "hotoshop CS5",
+    "author": "Robert Shufflebotham",
+    "published_year": "2006",
+    "last_edition": "2013",
+    "price": 718
+  },
+  {
+    "id": "b8",
+    "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Heat_And_Thermodynamics-Richard_H_Dittman-9c0f2-105725.jpg",
+    "name": "Heat And Thermodynamics",
+    "author": "Richard H Dittman",
+    "published_year": "2003",
+    "last_edition": "2011",
+    "price": 1251
+  },
+  {
+    "id": "b9",
+    "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/9587bab88_174423.jpg",
+    "name": "Core Java Volume-1 Fundamentals",
+    "author": "Gary Cornell , Cay S. Horstmann",
+    "published_year": "2007",
+    "last_edition": "2013",
+    "price": 1492
+  },
+  {
+    "id": "b10",
+    "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/abcf9c742b54_123084.jpg",
+    "name": "Artificial Intelligence : A Modern Approach",
+    "author": "Stuart J Russell , Peter Norvig",
+    "published_year": "2002",
+    "last_edition": "2015",
+    "price": 1618
+  },
+  {
+    "id": "b11",
+    "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/rokimg_20151107_104557.gif",
+    "name": "PHP Advanced and Object-Oriented Programming: Visual QuickPro Guide",
+    "author": "Larry Ullman",
+    "published_year": "2009",
+    "last_edition": "2016",
+    "price": 1366
+  },
+  {
+    "id": "b12",
+    "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/1f0581027_216173.jpg",
+    "name": "Only Time Will Tell",
+    "author": "Jeffrey Archer",
+    "published_year": "2008",
+    "last_edition": "2011",
+    "price": 780
+  },
+  {
+    "id": "b13",
+    "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Text_Hacks-Hasan_Zaman-16f11-218620.jpg",
+    "name": "Text Hacks",
+    "author": "Hasan Zaman",
+    "published_year": "2019",
+    "last_edition": " 2021",
+    "price": 275
+  },
+  {
+    "id": "b14",
+    "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Work_together-Nouman_Ali_Khan-1f22a-217559.jpg",
+    "name": "ওয়ার্ক টুগেদার",
+    "author": "নোমান আলী খান",
+    "published_year": "2021",
+    "last_edition": "2021",
+    "price": 172
+  },
+  {
+    "id": "b15",
+    "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Prince_of_Persia:_The_Sands_of_Time-Jems_Ponti-f051c-218806.png",
+    "name": "প্রিন্স অফ পার্সিয়া : দ্য স্যান্ডস অফ টাইম",
+    "author": "জেমস পন্টি",
+    "published_year": "2020",
+    "last_edition": "2021",
+    "price": 210
+  }
+
+]

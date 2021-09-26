@@ -1,0 +1,8 @@
+.HeaderStyle {
+  background-color: rgb(187, 227, 243);
+  text-align: center;
+  padding: 10px 0px;
+}
+.HeaderStyle h3 {
+  font-size: 26px;
+}
